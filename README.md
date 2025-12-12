@@ -21,5 +21,3 @@ performing products, regions, and customer segments, or to understand areas of
 declining performance. Management needs a consolidated data model and an
 interactive report to explore key sales drivers, monitor revenue and profit trends,
 and evaluate store and product-level performance.
-
-[Dashboard](
